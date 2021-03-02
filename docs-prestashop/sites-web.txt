@@ -1,0 +1,44 @@
+PRESTASHOP CNAM
+
+DOCS
+Architecture
+https://build.prestashop.com/news/prestashop-in-2019-and-beyond-part-1-current-architecture/
+
+
+******************************************************************************************
+ZONING/DESIGN
+
+Note : il y a 3 templates principales à créer sous Presta : la Home, la page Catégorie et la page produit
+
+******************************************************************************************
+THEMES
+La doc officielle
+https://devdocs.prestashop.com/1.7/themes/
+
+Création d'un thème pour Presta
+https://prestacraft.com/creating-your-own-theme-for-prestashop-1-7-beginner-guide/
+
+Personnalisation d'un thème
+https://newslang.ch/blog/comment-personnaliser-votre-theme-dans-prestashop-1-7/
+
+******************************************************************************************
+MODULES
+
+La doc officielle
+https://devdocs.prestashop.com/1.7/modules/
+
+Guide complet : créer un module dans Prestashop 1.7
+https://newslang.ch/blog/guide-complet-creer-module-prestashop-1-7
+
+Squelette pour module Prestashop 1.7
+https://blog.floriancourgey.com/2018/04/squelette-pour-module-prestashop-1-7
+
+******************************************************************************************
+DIVERS
+
+Que des bons articles sur ce blog suisse !
+https://newslang.ch/blog/prestashop/
+
+Utiliser la classe DB
+https://blog.floriancourgey.com/2018/04/use-db-the-database-class-in-prestashop-1-7/
+
