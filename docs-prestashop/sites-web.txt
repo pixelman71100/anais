@@ -27,6 +27,9 @@ MODULES
 La doc officielle
 https://devdocs.prestashop.com/1.7/modules/
 
+Pour générer un module générique
+https://validator.prestashop.com/generator
+
 Guide complet : créer un module dans Prestashop 1.7
 https://newslang.ch/blog/guide-complet-creer-module-prestashop-1-7
 
